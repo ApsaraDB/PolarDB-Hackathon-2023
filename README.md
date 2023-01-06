@@ -54,9 +54,9 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
 ## How to Join
 - **Step 1: Create an Alibaba Cloud Account**  [Link](https://account.alibabacloud.com/register/intl_register.htm) 
 - **Step 2: Sign up the Hackathon on Tianchi (Alibaba Cloud contest platform)** [Link](https://tianchi.alibabacloud.com/competition/entrance/532047/information)
-  - Sign up and Connect with other hackers, find teams, share your idea, get help with 
-- **Step 3: Get Your Free PolarDB Alibaba Cloud Resources** (Hackathon-exclusive) [Link]
-  - Read the [guide] for applying the suitable resources for your project
+  - Sign up and Connect with other hackers, find teams, share your idea, and ask questions
+- **Step 3: Get Your Free PolarDB Alibaba Cloud Resources** (Hackathon-exclusive)
+  - [Read the guide](https://www.alibabacloud.com/blog/how-to-claim-free-resources-for-polardb-hackathon_599631) for applying the suitable resources for your project
 
 
 
