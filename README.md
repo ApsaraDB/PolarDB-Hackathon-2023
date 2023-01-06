@@ -26,6 +26,22 @@ PolarDB Global Hackathon 2023 is an open-theme coding innovation contest for glo
 Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL on Alibaba Cloud** to build projects. Projects could be functioning apps, websites, programs, tools or data dashboards of innovative value in any field or industry. Hackers can participate as a team, each team can contain 1 to 5 individual participants. 
 
 <details>
+  <summary><h4>💡 Some topic ideas for your reference</head></summary>
+
+- **♻️ Sustainable Development**
+  - Green energy applications for home energy saving or home solar energy back to the grid
+  - Smart agriculture systems for saving resources and increasing quantity and quality of food
+- **🎮 Gaming & Web3** 
+  - Metaverse (PolarDB for PostgreSQL supports the spatial-temporal engine called Ganos to build a digital twin world) 
+  - Location-based sports game（PolarDB for PostgreSQL supports the spatial-temporal engine called Ganos to build a digital twin world) 
+  - Build a global-server game (PolarDB for MySQL supports Global Database Network(GDN))
+- **🏦 FinTech** 
+  - Online banking, risk management, financial services, trading system
+- **🛍 E-commerce & Logistics** 
+  - Shopping website/apps, supporting immersive shopping experiences, flash sales, new product releases and other scenes like Live streaming shopping
+</details>
+
+<details>
   <summary><h4>Submission Requirements</head></summary>
   
 - **PPT is required** for sharing your project idea and design, explain how you use PolarDB in your project and present a demo of your project. Please check the PolarDB Global Hackathon template slides for the submission requirement in detail.
@@ -45,13 +61,11 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
     - The originality and creativity of the project.
 - ***Usage of Alibaba Cloud Products(10%)***
     - One or multiple Alibaba Cloud products are consumed by your account(s) and used in your solution, including for training models or building your working demo.
-</details>
+    
 
-#### 💡 Some topic ideas for your reference
-- **♻️ Sustainable Development** – green energy applications for home energy saving or home solar energy back to the grid, smart agriculture systems for saving resources and increasing quantity and quality of food
-- **🎮 Gaming & Web3** – metaverse (PolarDB for PostgreSQL supports the spatial-temporal engine called Ganos to build a digital twin world or build a location-based sports game; PolarDB for MySQL supports Global Database Network(GDN) to build a global- server game)
-- **🏦 FinTech** – online banking, risk management, financial services, trading system
-- **🛍 E-commerce & Logistics** – brand official website, supporting immersive shopping experiences, flash sales, new product releases and other scenes like Live streaming shopping
+- ***Bonus***
+    - Upload your presentation video to YouTube or share your project on GitHub can get extra 5 bonus marks. If you upload your work to YouTube or GitHub, please attach the link to your submission slides.
+</details>
 
 
 
@@ -64,16 +78,16 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
 
 
 
-- 🎓**For Students**: Complete Student Verification Process [Link](https://www.alibabacloud.com/campaign/education)
+- 🎓**For Students**: Please the Complete Student Verification Process [Link](https://www.alibabacloud.com/campaign/education)
   -  For student participants need to skip the payment verification, please get verified by completing the verification process. 
 
 ## Get Started
 Free learning materials and useful resources can be found as below. 
-- 🎓  **[Free Alibaba Clouder Certification Sessions](https://edu.alibabacloud.com/certification/clouder-apsaradb-polardb?spm=a3c0i.24664738.7065039440.28.7e797c05AaTLqc)** 
-- 🎬  **[YouTube PolarDB Tutorial & Highlighted Features](https://www.youtube.com/@AlibabaDatabase/featured)**
-- 🌟  **[GitHub PolarDB Hands-on](https://github.com/ApsaraDB/PolarDB-Hands-On)**
-- 📖  **[PolarDB for MySQL Official Documentation](https://www.alibabacloud.com/help/en/polardb-for-mysql/latest/quick-start)**
-- 📖  **[PolarDB for PostgreSQL Official Documentation](https://www.alibabacloud.com/help/en/polardb-for-postgresql/latest/getting-started)** 
+- 🎓  [Free Alibaba Clouder Certification Sessions](https://edu.alibabacloud.com/certification/clouder-apsaradb-polardb?spm=a3c0i.24664738.7065039440.28.7e797c05AaTLqc) 
+- 🎬  [YouTube PolarDB Tutorial & Highlighted Features](https://www.youtube.com/@AlibabaDatabase/featured)
+- 🌟  [GitHub PolarDB Hands-on](https://github.com/ApsaraDB/PolarDB-Hands-On)
+- 📖  [PolarDB for MySQL Official Documentation](https://www.alibabacloud.com/help/en/polardb-for-mysql/latest/quick-start)
+- 📖  [PolarDB for PostgreSQL Official Documentation](https://www.alibabacloud.com/help/en/polardb-for-postgresql/latest/getting-started)
 
 
 ## Need any help?
