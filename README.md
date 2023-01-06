@@ -25,13 +25,16 @@ PolarDB Global Hackathon 2023 is an open-theme coding innovation contest for glo
 
 Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL on Alibaba Cloud** to build projects. Projects could be functioning apps, websites, programs, tools or data dashboards of innovative value in any field or industry. Hackers can participate as a team, each team can contain 1 to 5 individual participants. 
 
-#### Submission Requirement
+<details>
+  <summary><h4>Submission Requirements</head></summary>
+  
 - **PPT is required** for sharing your project idea and design, explain how you use PolarDB in your project and present a demo of your project. Please check the PolarDB Global Hackathon template slides for the submission requirement in detail.
 - **Presentation video is optional but highly recommended** to help judges to have better understand about your project
 - **Zip file containing your sample application and source code is highly recommended**. Please also provide the README for judges to run the application
-
-
-#### Evaluation Criteria
+</details>
+<details>
+  <summary><h4>Evaluation Criteria</head></summary>
+  
 - ***Technical Implementation(40%)***
     - How well the application was designed and executed by the developer and how well PolarDB was executed in the submission
     - **Using PolarDB advanced features is highly recommended**
@@ -42,8 +45,9 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
     - The originality and creativity of the project.
 - ***Usage of Alibaba Cloud Products(10%)***
     - One or multiple Alibaba Cloud products are consumed by your account(s) and used in your solution, including for training models or building your working demo.
+</details>
 
-#### Some innovation ideas for your reference
+#### 💡 Some topic ideas for your reference
 - **♻️ Sustainable Development** – green energy applications for home energy saving or home solar energy back to the grid, smart agriculture systems for saving resources and increasing quantity and quality of food
 - **🎮 Gaming & Web3** – metaverse (PolarDB for PostgreSQL supports the spatial-temporal engine called Ganos to build a digital twin world or build a location-based sports game; PolarDB for MySQL supports Global Database Network(GDN) to build a global- server game)
 - **🏦 FinTech** – online banking, risk management, financial services, trading system
@@ -52,10 +56,10 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
 
 
 ## How to Join
-- **Step 1: Create an Alibaba Cloud Account**  [Link](https://account.alibabacloud.com/register/intl_register.htm) 
-- **Step 2: Sign up the Hackathon on Tianchi (Alibaba Cloud contest platform)** [Link](https://tianchi.alibabacloud.com/competition/entrance/532047/information)
+- **Step 1: [Create an Alibaba Cloud Account](https://account.alibabacloud.com/register/intl_register.htm)**
+- **Step 2: [Sign up the Hackathon](https://tianchi.alibabacloud.com/competition/entrance/532047/information) on Tianchi (Alibaba Cloud contest platform)**
   - Sign up and Connect with other hackers, find teams, share your idea, and ask questions
-- **Step 3: Get Your Free PolarDB Alibaba Cloud Resources** (Hackathon-exclusive)
+- **Step 3: Get Your Free PolarDB Alibaba Cloud Resources (Hackathon-exclusive) [Click to Apply](https://page-intl.aliyun.com/form/act862887044/index.htm)**
   - [Read the guide](https://www.alibabacloud.com/blog/how-to-claim-free-resources-for-polardb-hackathon_599631) for applying the suitable resources for your project
 
 
