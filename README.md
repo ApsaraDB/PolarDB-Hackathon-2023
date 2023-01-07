@@ -77,9 +77,8 @@ Participants are required to use **PolarDB for MySQL or PolarDB for PostgreSQL o
   - **[Read the guide](https://www.alibabacloud.com/blog/how-to-claim-free-resources-for-polardb-hackathon_599631)** for applying the suitable resources for your project
 
 
+🎓***Note*** *：For Students Please [Complete Student Verification Process](https://www.alibabacloud.com/campaign/education) Before Step1 to Skip the Payment Verification*
 
-- 🎓**For Students**: Please the Complete Student Verification Process [Link](https://www.alibabacloud.com/campaign/education)
-  -  For student participants need to skip the payment verification, please get verified by completing the verification process. 
 
 ## Get Started
 Free learning materials and useful resources can be found as below. 
